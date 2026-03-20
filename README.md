@@ -1,6 +1,6 @@
 # Thanks for stopping by!
 
-Hi, I'm Tom, a Computer Science graduate from Western University and (currently) independent software developer based in Mexico City.
+Hi, I'm Tom, a Computer Science graduate from Western University and (currently) independent software developer.
 
 ## Interests
 * Systems Design
