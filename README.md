@@ -36,6 +36,11 @@ Hi, I'm Tom, a Computer Science graduate from Western University and (currently)
 ![Git][Git img]
 ![GitHub][GH img]
 
+### DevOps & Infrastructure
+
+![Docker][Dck img]
+![Kubernetes][Kube img]
+
 ## Attribution
 The badges used in this file were sourced from **Ileriayo**'s `markdown-badges` repository under the MIT license. That repository can be found [here][Badge site].
 
@@ -50,5 +55,7 @@ The badges used in this file were sourced from **Ileriayo**'s `markdown-badges` 
 [Js img]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Py img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Rust img]: https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
-[Ts img]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white 
+[Ts img]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[Dck img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Kube img]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
 [Badge site]: https://github.com/Ileriayo/markdown-badges
